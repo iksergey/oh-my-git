@@ -1,8 +1,8 @@
 
 
-//DO NOT COMPILE THIS IS THE MAIN VERSION OF THE GAME TIC-TAC-TOE!!!
+## DO NOT COMPILE THIS IS THE MAIN VERSION OF THE GAME TIC-TAC-TOE
 
-
+```C#
 using Project2.Game;
 using System;
 using System.Collections.Generic;
@@ -11,9 +11,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ???Project2???
+namespace _named_
 {
-    public static class ???Output???
+    public static class **named**
     {
         static void Main()
         {
@@ -106,3 +106,4 @@ namespace ???Project2???
         }
     }
 }
+```
