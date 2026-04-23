@@ -1,3 +1,10 @@
+# Обратная связь 
+1. Сделайте fork-репозитория
+2. Сделайте ответвление от текущей ветки
+   - *например, feedback_iksergey*
+3. Внесите изменения в файл
+4. Сделайте Pull Request
+   - **!!! Внимательно выбирайте ветку !!!** 
 # Буткемп
 
 Приобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=51f2e70c7ce4b640&utm_source=github.com&utm_medium=oh_my_git&utm_campaign=narodny_course&utm_term=first) вы получаете приятную скидку
