@@ -1,0 +1,143 @@
+* [33mcommit 3cecf248c604787f0e8561ec8a21364a1134704c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: 9REM <kovalev.roman.11.94@mail.ru>
+[31m|[m Date:   Wed Apr 2 16:19:34 2025 +0300
+[31m|[m 
+[31m|[m     Ввод своего файла
+[31m|[m 
+* [33mcommit 9718dd1a3b05ba752ca4d5d731a44554ab1997c4[m
+[31m|[m Author: Сергей Камянецкий <i@ksergey.ru>
+[31m|[m Date:   Thu Aug 8 18:33:29 2024 +0300
+[31m|[m 
+[31m|[m     Bonus offer
+[31m|[m 
+* [33mcommit 2b82ff86bfa44000f3064ee31086c0ce8ca83b40[m
+[31m|[m Author: Сергей Камянецкий <i@ksergey.ru>
+[31m|[m Date:   Thu Aug 8 18:32:20 2024 +0300
+[31m|[m 
+[31m|[m     quiz link
+[31m|[m 
+* [33mcommit c95e33e2eac7290b9e23f28f12ca91f19a7b7ff3[m
+[31m|[m Author: Сергей Камянецкий <i@ksergey.ru>
+[31m|[m Date:   Thu Aug 8 18:31:07 2024 +0300
+[31m|[m 
+[31m|[m     link upd
+[31m|[m 
+* [33mcommit ec97077f39394cbf314132e2d2014024842a58e8[m
+[31m|[m Author: Сергей Камянецкий <i@ksergey.ru>
+[31m|[m Date:   Thu Aug 8 17:52:04 2024 +0300
+[31m|[m 
+[31m|[m     Bonus offer
+[31m|[m   
+*   [33mcommit 8ed1a2efe91b52d0942c34e2f9f7debf66ff1763[m
+[32m|[m[33m\[m  Merge: ddd7971 f9d64bc
+[32m|[m [33m|[m Author: Sergey Kamianetckii <i@ksergey.ru>
+[32m|[m [33m|[m Date:   Mon Feb 13 20:54:13 2023 +0300
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge pull request #700 from avk1702/master
+[32m|[m [33m|[m     
+[32m|[m [33m|[m     Добавил файл manual_Git.md
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit f9d64bcd72c2570a3a4e852f081ab123fc8fca11[m
+[32m|[m [33m|[m Author: avk1702 <avk1702@bk.ru>
+[32m|[m [33m|[m Date:   Sat Feb 4 11:48:20 2023 +0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m      добавили команды для работы с удаленным репозиторием
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit fa5ee1bb92356bc13b97707f6233fc7d8c1eeee9[m
+[32m|[m [33m|[m Author: avk1702 <avk1702@bk.ru>
+[32m|[m [33m|[m Date:   Sat Feb 4 11:38:13 2023 +0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m      добавили новый файл manual_Git.md
+[32m|[m [33m|[m   
+* [33m|[m   [33mcommit ddd7971d76c80d76e6377ddd14908cd7c9d3abf9[m
+[33m|[m[35m\[m [33m\[m  Merge: 52846e6 34a9d8b
+[33m|[m [35m|[m[33m/[m  Author: Sergey Kamianetckii <i@ksergey.ru>
+[33m|[m[33m/[m[35m|[m   Date:   Mon Feb 13 20:53:56 2023 +0300
+[33m|[m [35m|[m   
+[33m|[m [35m|[m       Merge pull request #696 from AndreiBorod1n/master
+[33m|[m [35m|[m       
+[33m|[m [35m|[m       Done homework
+[33m|[m [35m|[m 
+[33m|[m * [33mcommit 34a9d8b0a95df14d1ea841a1748160df7ec54241[m
+[33m|[m[33m/[m  Author: Andrei <andrei.borod1n@mail.ru>
+[33m|[m   Date:   Fri Feb 3 15:07:21 2023 +0200
+[33m|[m   
+[33m|[m       Done homework
+[33m|[m 
+* [33mcommit 52846e6c80dc8982e50a4c133ee19e9465737be4[m
+[35m|[m Author: Sergey Kamianetckii <i@ksergey.ru>
+[35m|[m Date:   Wed Nov 30 20:58:00 2022 +0300
+[35m|[m 
+[35m|[m     Обновление инструкции
+[35m|[m 
+* [33mcommit cc9fc9480e41d857100f807d4dc7f6de6f7bb646[m
+[35m|[m Author: Sergey Kamianetckii <i@ksergey.ru>
+[35m|[m Date:   Wed Nov 30 13:44:53 2022 +0300
+[35m|[m 
+[35m|[m     Обновлена инструкция форка
+[35m|[m 
+* [33mcommit 9a515f9f83c807ec21e318ac4d10dbaa79693e50[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 04:06:13 2022 +0300
+[35m|[m 
+[35m|[m     Обновлена инструкция прохождения викторины
+[35m|[m 
+* [33mcommit e00436db198fbb6540cfea7050039971da68a673[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 03:26:18 2022 +0300
+[35m|[m 
+[35m|[m     commit 14
+[35m|[m 
+* [33mcommit 38fac49dc9616d7554561a4100a4064db3e6ccab[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 03:23:10 2022 +0300
+[35m|[m 
+[35m|[m     commit 13
+[35m|[m 
+* [33mcommit 458355315bf280092199ff4ec6b9b01559d0d629[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 03:15:09 2022 +0300
+[35m|[m 
+[35m|[m     commit 12
+[35m|[m 
+* [33mcommit 99ffce70e3c68e4b4d70bcfe80e56d990c357e84[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:54:33 2022 +0300
+[35m|[m 
+[35m|[m     commit 8
+[35m|[m 
+* [33mcommit 9adc146dc4f63a844aa0d0e5f4db62d8afebaeb2[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:39:10 2022 +0300
+[35m|[m 
+[35m|[m     commit 3
+[35m|[m 
+* [33mcommit 49ae51f11a52d6a5941f2cf1ec4c05c6b4b81ad4[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:38:27 2022 +0300
+[35m|[m 
+[35m|[m     commit 2
+[35m|[m 
+* [33mcommit a93fe04a9eb7d012ae4be587cfae170f847d99ac[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:38:16 2022 +0300
+[35m|[m 
+[35m|[m     commit 1
+[35m|[m 
+* [33mcommit 1eb3fb798f154651ca1cfa5576d3653a89aa690e[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:35:03 2022 +0300
+[35m|[m 
+[35m|[m     commit 0
+[35m|[m 
+* [33mcommit 2de2a08ed2ee8fba32f918f0b7a897e340a5a6d7[m
+[35m|[m Author: ksergeyru <i@ksergey.ru>
+[35m|[m Date:   Sat Nov 26 02:15:56 2022 +0300
+[35m|[m 
+[35m|[m     Подготовка к практикуму
+[35m|[m 
+* [33mcommit 7e7a8d35e5cf41028e302e765511b8b1b3ff13f2[m
+  Author: ksergeyru <i@ksergey.ru>
+  Date:   Sat Nov 26 01:57:36 2022 +0300
+  
+      initial commit
